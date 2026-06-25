@@ -16,6 +16,7 @@
     Glassmorphism Navbar — Sticky navbar with blur effect
 
 🛠️ Tech Stack
+
    HTML
    CSS
    JAVA SCRIPT
