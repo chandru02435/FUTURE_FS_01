@@ -17,9 +17,9 @@
 
 🛠️ Tech Stack
 
-   HTML
-   CSS
-   JAVA SCRIPT
-   CANVAS API
-   FORMSPREE
+   HTML|
+   CSS|
+   JAVA SCRIPT|
+   CANVAS API|
+   FORMSPREE|
    GITHUB
